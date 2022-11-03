@@ -9,8 +9,6 @@
 </div>
 
 <br>
-
----
 <div align="center">
 
 ## 🌐 Socials:
