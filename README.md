@@ -1,6 +1,6 @@
 # 💫 About Me:
 Development of websites and web applications. Development of bots for Discord<br>Studying Web Development & Software Engineering at Sochi State University.<br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 ---
 ## 🌐 Socials:
