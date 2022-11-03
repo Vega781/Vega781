@@ -1,8 +1,15 @@
+<div align="center">
+
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Coder GIF">
+  
+</div>
+
 # 💫 About Me:
 Development of websites and web applications. Development of bots for Discord<br>Studying Web Development & Software Engineering at Sochi State University.<br>
-<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 ---
+<div align="center">
+
 ## 🌐 Socials:
 [![VK](https://img.shields.io/badge/VK-%237289DA.svg?logo=VK&logoColor=white)](https://vk.com/arqz81)
 [![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=Telegram&logoColor=white)](https://t.me/ARQ81)
@@ -10,7 +17,9 @@ Development of websites and web applications. Development of bots for Discord<br
 [![GitLab](https://img.shields.io/badge/-GitLab-FE7A16?logo=Gitlab&logoColor=white)](https://gitlab.skillbox.ru/maksim_anisenko_1)
 [![Replit](https://img.shields.io/badge/-Replit-FE7A16?logo=Replit&logoColor=white)](https://replit.com/@Deagle)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20410365/ar-81)
-___
+</div>
+
+---
 <div align="center">
   <a href="https://open.spotify.com/user/htnuw4nt7uo5q9wgxklrd9wc3">
     <img src="https://novatorem-ankuverindustries-gmailcom.vercel.app/api/spotify">
@@ -18,15 +27,21 @@ ___
 </div>
 
 ---
+
+<div align="center">
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=koderKHV&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=koderKHV&icon=2&color=0)](https://visitcount.itsvg.in)
+</div>
 
-
+<div align="center">
 
 # 💻 Tech Stack:
+
+</div>
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
@@ -37,13 +52,11 @@ ___
 </div>
 </p>
 
+<div align="center">
 
-# 📊 GitHub Stats:
 
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=koderKHV&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=koderKHV&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koderKHV&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koderKHV&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=koderKHV&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+</div>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
