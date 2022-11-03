@@ -3,9 +3,11 @@
   <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Coder GIF">
   
   # 💫 About Me:
+  Development of websites and web applications. Development of bots for Discord<br>Studying Web Development & Software Engineering at Sochi State University.
+  ---
 </div>
 
-Development of websites and web applications. Development of bots for Discord<br>Studying Web Development & Software Engineering at Sochi State University.<br>
+<br>
 
 ---
 <div align="center">
@@ -17,6 +19,12 @@ Development of websites and web applications. Development of bots for Discord<br
 [![GitLab](https://img.shields.io/badge/-GitLab-FE7A16?logo=Gitlab&logoColor=white)](https://gitlab.skillbox.ru/maksim_anisenko_1)
 [![Replit](https://img.shields.io/badge/-Replit-FE7A16?logo=Replit&logoColor=white)](https://replit.com/@Deagle)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20410365/ar-81)
+</div>
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 </div>
 
 ---
@@ -54,7 +62,15 @@ Development of websites and web applications. Development of bots for Discord<br
 
 <div align="center">
 
+# 📊 GitHub Stats:
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
 
+---
+![](https://github-readme-stats.vercel.app/api?username=koderKHV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=koderKHV&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=koderKHV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
 </div>
 
