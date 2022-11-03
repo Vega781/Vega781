@@ -4,7 +4,6 @@
   
   # 💫 About Me:
   Development of websites and web applications. Development of bots for Discord<br>Studying Web Development & Software Engineering at Sochi State University.
-  ---
 </div>
 
 <br>
