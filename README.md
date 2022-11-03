@@ -21,6 +21,7 @@
 [![Replit](https://img.shields.io/badge/-Replit-FE7A16?logo=Replit&logoColor=white)](https://replit.com/@Deagle)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20410365/ar-81)
 [![Github](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20410365/ar-81)
+<br>
   <a href="https://open.spotify.com/user/htnuw4nt7uo5q9wgxklrd9wc3">
     <img src="https://novatorem-ankuverindustries-gmailcom.vercel.app/api/spotify">
   </a>
