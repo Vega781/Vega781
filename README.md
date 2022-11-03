@@ -1,14 +1,15 @@
 <div align="center">
+
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Coder GIF">
   
   # 💫 About Me:
   Development of websites and web applications. Development of bots for Discord<br>Studying Web Development & Software Engineering at Sochi State University.
   ---
-
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Coder GIF">
-  
 </div>
 
 <br>
+
+---
 <div align="center">
 
 ## 🌐 Socials:
@@ -21,12 +22,6 @@
 [![Github](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20410365/ar-81)
 </div>
 
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-</div>
-
 ---
 <div align="center">
   <a href="https://open.spotify.com/user/htnuw4nt7uo5q9wgxklrd9wc3">
@@ -35,19 +30,10 @@
 </div>
 
 ---
-
+<br>
 <div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=koderKHV&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=koderKHV&icon=2&color=0)](https://visitcount.itsvg.in)
-</div>
-
-<div align="center">
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 </div>
 <p>
@@ -74,21 +60,15 @@
 
 <div align="center">
 
-# 📊 GitHub Stats:
-[![koderKHV's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=koderKHV&theme=tokyonight)](https://git.io/praveenscience)
-
 ---
+## 📊 GitHub Stats:
+
 [![Metrics](https://metrics.lecoq.io/koderKHV?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/koderKHV)
 
----
-<br>
-
-![](https://github-readme-stats.vercel.app/api?username=koderKHV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=koderKHV&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=koderKHV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
-
+![](https://github-readme-stats.vercel.app/api?username=koderKHV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 </div>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=koderKHV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=koderKHV&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
