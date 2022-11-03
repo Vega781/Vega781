@@ -63,14 +63,14 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=koderKHV&theme=tokyonight)](https://git.io/praveenscience)
 
 ---
 ![](https://github-readme-stats.vercel.app/api?username=koderKHV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=koderKHV&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=koderKHV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+![Github Stars](https://github-readme-stats.vercel.app/api?username=koderKHV&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
 </div>
 
