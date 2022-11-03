@@ -1,18 +1,16 @@
 <div align="center">
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Coder GIF">
+</div>
+<div align="center">
   
   # 💫 About Me:
   Development of websites and web applications. Development of bots for Discord<br>Studying Web Development & Software Engineering at Sochi State University.
   ---
 </div>
-
 <br>
-
 <div align="center">
 
 # 🌐 Socials:
-<div align="center">
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Coder GIF">
-</div>
 
 [![VK](https://img.shields.io/badge/VK-%237289DA.svg?logo=VK&logoColor=white)](https://vk.com/arqz81)
 [![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=Telegram&logoColor=white)](https://t.me/ARQ81)
@@ -21,12 +19,6 @@
 [![Replit](https://img.shields.io/badge/-Replit-FE7A16?logo=Replit&logoColor=white)](https://replit.com/@Deagle)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20410365/ar-81)
 [![Github](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20410365/ar-81)
-<br>
-  <a href="https://open.spotify.com/user/htnuw4nt7uo5q9wgxklrd9wc3">
-    <img src="https://novatorem-ankuverindustries-gmailcom.vercel.app/api/spotify">
-  </a>
-</div>
-
 
 <br>
 <div align="center">
@@ -60,9 +52,6 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-
-[![Metrics](https://metrics.lecoq.io/koderKHV?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/koderKHV)
-
 ![](https://github-readme-stats.vercel.app/api?username=koderKHV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=koderKHV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=koderKHV&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
