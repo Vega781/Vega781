@@ -4,12 +4,15 @@ Development of websites and web applications. Development of bots for Discord<br
 
 ---
 ## 🌐 Socials:
-[![VK](https://img.shields.io/badge/VK-%237289DA.svg?logo=VK&logoColor=white)](https://vk.com/arqz81)
-[![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=Telegram&logoColor=white)](https://t.me/ARQ81)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/qp#7688)
-[![GitLab](https://img.shields.io/badge/-GitLab-FE7A16?logo=Gitlab&logoColor=white)](https://gitlab.skillbox.ru/maksim_anisenko_1)
-[![Replit](https://img.shields.io/badge/-Replit-FE7A16?logo=Replit&logoColor=white)](https://replit.com/@Deagle)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20410365/ar-81)
+
+<div align="center">
+  [![VK](https://img.shields.io/badge/VK-%237289DA.svg?logo=VK&logoColor=white)](https://vk.com/arqz81)
+  [![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=Telegram&logoColor=white)](https://t.me/ARQ81)
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/qp#7688)
+  [![GitLab](https://img.shields.io/badge/-GitLab-FE7A16?logo=Gitlab&logoColor=white)](https://gitlab.skillbox.ru/maksim_anisenko_1)
+  [![Replit](https://img.shields.io/badge/-Replit-FE7A16?logo=Replit&logoColor=white)](https://replit.com/@Deagle)
+  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20410365/ar-81)
+</div>
 ___
 <div align="center">
   <a href="https://open.spotify.com/user/htnuw4nt7uo5q9wgxklrd9wc3">
