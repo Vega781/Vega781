@@ -8,6 +8,13 @@
   ---
 </div>
 <div align="center">
+  
+  ## 🎵 Spotify
+  <a href="https://open.spotify.com/user/htnuw4nt7uo5q9wgxklrd9wc3">
+    <img src="https://novatorem-ankuverindustries-gmailcom.vercel.app/api/spotify">
+  </a>
+</div>
+<div align="center">
 
 # 🌐 Socials:
 
