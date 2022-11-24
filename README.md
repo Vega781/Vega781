@@ -20,7 +20,7 @@
 
 [![VK](https://img.shields.io/badge/VK-%237289DA.svg?logo=VK&logoColor=white)](https://vk.com/arqz81)
 [![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=Telegram&logoColor=white)](https://t.me/ARQ81)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qp#7688)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/725656622197768202/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FE7A16?logo=Gitlab&logoColor=white)](https://gitlab.skillbox.ru/maksim_anisenko_1)
 [![Replit](https://img.shields.io/badge/-Replit-FE7A16?logo=Replit&logoColor=white)](https://replit.com/@Deagle)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20410365/ar-81)
