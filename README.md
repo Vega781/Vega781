@@ -9,12 +9,7 @@
 </div>
 <div align="center">
   
-  ## 🎵 Spotify
-  <a href="https://open.spotify.com/user/htnuw4nt7uo5q9wgxklrd9wc3">
-    <img src="https://novatorem-ankuverindustries-gmailcom.vercel.app/api/spotify">
-  </a>
-</div>
-<div align="center">
+
 
 # 🌐 Socials:
 
@@ -27,7 +22,7 @@
 [![Github](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20410365/ar-81)
 <div align="center">
 
-# 💻 Tech Stack:
+<!-- # 💻 Tech Stack:
 
 </div>
 <p>
@@ -50,7 +45,7 @@
   ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </div>
-</p>
+</p> -->
 
 <div align="center">
 
