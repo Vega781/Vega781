@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Coder GIF">
 </div>
-<div align="center">
+<!-- <div align="center">
   
   # 💫 About Me:
   Development of websites and web applications. Development of bots for Discord<br>Studying Web Development & Software Engineering at Sochi State University.
   ---
-</div>
+</div> -->
 <div align="center">
   
 
