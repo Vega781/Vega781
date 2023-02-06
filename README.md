@@ -12,7 +12,6 @@ I'm Max, a professional **self-taughted** FullStack web developer.
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)]()
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)]()
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)]()
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)]()
 
 ### Technologies
 
