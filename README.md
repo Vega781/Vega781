@@ -26,7 +26,7 @@ I'm Max, a professional **self-taughted** FullStack web developer.
 [![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)]()
 [![](https://img.shields.io/badge/-Flask-000?&logo=Flask)]()
 [![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)]()
-[![](https://img.shields.io/badge/-React-000?&logo=Django&logoColor=092E20)]()
+[![](https://img.shields.io/badge/-React-000?&logo=React&logoColor=092E20)]()
 
 ### Other
 
