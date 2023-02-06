@@ -2,9 +2,8 @@
 
 I'm Max, a professional **self-taughted** FullStack web developer.
 
-[![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://loxtika.xyz)
-[![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discordapp.com/users/937701724318232647/)
-[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/LoXtika)
+[![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discordapp.com/users/725656622197768202/)
+[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/ARQ81)
 
 ### Languages
 
@@ -19,7 +18,6 @@ I'm Max, a professional **self-taughted** FullStack web developer.
 [![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)]()
 [![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)]()
 [![](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)]()
-[![](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)]()
 [![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)]()
 [![](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)]()
 [![](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)]()
