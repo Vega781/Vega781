@@ -1,49 +1,48 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Coder GIF">
-</div>
-<!-- <div align="center">
-  
-  # 💫 About Me:
-  Development of websites and web applications. Development of bots for Discord<br>Studying Web Development & Software Engineering at Sochi State University.
-  ---
-</div> -->
-<div align="center">
-  
+###  Hi there, I'm Vega7 <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
+I'm Max, a professional **self-taughted** FullStack web developer.
 
-# 🌐 Socials:
+[![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://loxtika.xyz)
+[![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discordapp.com/users/937701724318232647/)
+[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/LoXtika)
 
-[![VK](https://img.shields.io/badge/VK-%237289DA.svg?logo=VK&logoColor=white)](https://vk.com/arqz81)
-[![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=Telegram&logoColor=white)](https://t.me/ARQ81)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/725656622197768202/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FE7A16?logo=Gitlab&logoColor=white)](https://gitlab.skillbox.ru/maksim_anisenko_1)
-[![Replit](https://img.shields.io/badge/-Replit-FE7A16?logo=Replit&logoColor=white)](https://replit.com/@Deagle)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20410365/ar-81)
-[![Github](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20410365/ar-81)
-<div align="center">
+### Languages
 
-# 💻 Tech Stack:
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)]()
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)]()
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)]()
+[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)]()
 
-</div>
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+### Technologies
 
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-</div>
+[![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)]()
+[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)]()
+[![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)]()
+[![](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)]()
+[![](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)]()
+[![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)]()
+[![](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)]()
+[![](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)]()
+[![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)]()
+[![](https://img.shields.io/badge/-Flask-000?&logo=Flask)]()
+[![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)]()
+[![](https://img.shields.io/badge/-React-000?&logo=Django&logoColor=092E20)]()
+
+### Other
+
+[![](https://img.shields.io/badge/-HTML-000?&logo=html5)]()
+[![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)]()
+[![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)]()
+[![](https://img.shields.io/badge/-Git-000?&logo=Git)]()
+[![](https://img.shields.io/badge/-Docker-000?&logo=Docker)]()
+[![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)]()
+
+<p align="center"> 
+  Visitor count <br>
+  <a href="https://github.com/LoXtika-Cat">
+    <img src="https://profile-counter.glitch.me/LoXtika-Cat/count.svg" />
+  </a>
 </p>
 
 <div align="center">
