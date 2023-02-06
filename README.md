@@ -38,12 +38,6 @@ I'm Max, a professional **self-taughted** FullStack web developer.
 [![](https://img.shields.io/badge/-Docker-000?&logo=Docker)]()
 [![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)]()
 
-<p align="center"> 
-  Visitor count <br>
-  <a href="https://github.com/LoXtika-Cat">
-    <img src="https://profile-counter.glitch.me/LoXtika-Cat/count.svg" />
-  </a>
-</p>
 
 <div align="center">
 
