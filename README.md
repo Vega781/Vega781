@@ -32,8 +32,6 @@ I'm FullStack web developer.
 [![](https://img.shields.io/badge/-Docker-000?&logo=Docker)]()
 [![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)]()
 
-![Snake animation](https://github.com/dias0pe/dias0pe/blob/output/github-contribution-grid-snake.svg)
-
 
 <!-- <div align="center">
 
