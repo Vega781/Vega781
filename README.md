@@ -28,6 +28,7 @@ I'm FullStack web developer.
 [![](https://img.shields.io/badge/-HTML-000?&logo=html5)]()
 [![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)]()
 [![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)]()
+[![](https://img.shields.io/badge/-Sass-000?&logo=gsap&logoColor=CC6699)]()
 [![](https://img.shields.io/badge/-Git-000?&logo=Git)]()
 [![](https://img.shields.io/badge/-Docker-000?&logo=Docker)]()
 [![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)]()
