@@ -25,10 +25,15 @@ I'm beginner Full Stack web developer.
 [![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
 [![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
 
+<div align="center">
+  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vega781&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 <div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vega781&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vega781&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Vega781&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
 </div>
