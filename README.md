@@ -2,42 +2,40 @@
 
 I'm beginner Full Stack web developer.
 
-[![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discordapp.com/users/725656622197768202/)
-[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/ARQ81)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/725656622197768202/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ARQ81)
 
 ### Languages
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)]()
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)]()
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
+[![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white)]()
 <!-- [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)]() -->
 
 ### Technologies
 
-[![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)]()
-[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)]()
-[![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)]()
-[![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)]()
-[![](https://img.shields.io/badge/-Flask-000?&logo=Flask)]()
-[![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)]()
-[![](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)]()
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
+[![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)]()
 
 ### Other
 
-[![](https://img.shields.io/badge/-HTML-000?&logo=html5)]()
-[![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)]()
-[![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)]()
-[![](https://img.shields.io/badge/-Git-000?&logo=Git)]()
-[![](https://img.shields.io/badge/-Docker-000?&logo=Docker)]()
-[![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)]()
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
+[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+[![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+[![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
 
 
-<!-- <div align="center">
+<div align="center">
 
 # 📊 GitHub Stats:
-[![Metrics](https://metrics.lecoq.io/UDP01?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/UDP01)
-![](https://github-readme-stats.vercel.app/api?username=UDP01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-</div> -->
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Metrics](https://metrics.lecoq.io/Vega781?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/Vega781)
+![](https://github-readme-stats.vercel.app/api?username=Vega781&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+</div>
