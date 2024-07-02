@@ -52,7 +52,6 @@
 <tr>
 <td>Backend</td>
 <td><img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
-<img src="https://img.shields.io/badge/react.js-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js"></td>
 </tr>
 <tr>
 <td>Database</td>
