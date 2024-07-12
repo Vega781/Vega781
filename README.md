@@ -1,5 +1,12 @@
 <div align="center">
 
+<div align="center">
+  <br>
+    <h3 align="center">Visitors count</h3>
+    <p align="center"><img align="center" src="https://count.getloli.com/get/@Vega781?theme=moebooru" /></p> 
+  <br>
+</div>
+
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/725656622197768202/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vega781)
  
