@@ -40,7 +40,7 @@
 <!-- 🌐 Website: [thecodermehedi.com](https://thecodermehedi.me) -->
 
 # Skils
-![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,css,scss,tailwind,react,astro,nodejs,postgres,mongo,git,github,gitlab,vscode)
+![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,css,scss,tailwind,react,astro,nodejs,postgres,mongo,git,github,gitlab)
 
 
 # Technologies
