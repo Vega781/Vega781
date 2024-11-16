@@ -13,7 +13,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vega781)
 
 # Skils
-![My Skills](https://skillicons.dev/icons?i=ts,js,python,react,next,redux,astro,tailwind,postgres,mongo)
+![My Skills](https://skillicons.dev/icons?i=ts,js,python,react,next,redux,astro,tailwind,postgres,mongo&perline=5)
 
 
 # Technologies
@@ -22,14 +22,19 @@
 <tr>
 <td>Frontend</td> 
 <td>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,redux,astro,tailwind">
+  <img src="https://skillicons.dev/icons?i=react,next,redux,astro,tailwind">
 </tr>
 <tr>
 <td>Backend</td>
 <td>
-  <img src="https://skillicons.dev/icons?i=python,js,flask,nodejs">
+  <img src="https://skillicons.dev/icons?i=flask,nodejs">
 </tr>
 <tr>
+<td>Bundlers</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=vite,webpack">
+</td>
+</tr>
 <td>Database</td>
 <td>
   <img src="https://skillicons.dev/icons?i=postgres,mongo,sqlite">
@@ -41,11 +46,5 @@
   <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm">
 </td>
 </tr>
-<!-- <tr>
-  <td>Libraries</td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=vite,webpack">
-  </td>
-</tr> -->
 </table>
 </div> 
