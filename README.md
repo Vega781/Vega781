@@ -22,7 +22,7 @@
 <tr>
 <td>Frontend</td> 
 <td>
-  <img src="https://skillicons.dev/icons?i=react,next,redux,astro,tailwind">
+  <img src="https://skillicons.dev/icons?i=react,next,redux,astro,jest,cypress,tailwind">
 </tr>
 <tr>
 <td>Backend</td>
