@@ -46,7 +46,7 @@
 <tr>
 <td>Tools</td>
 <td>
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm">
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,githubactions">
 </td>
 </tr>
 </table>
