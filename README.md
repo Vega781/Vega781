@@ -11,6 +11,7 @@
 
 # Contact me
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vega781.github.io/Portfolio/)
+[![CV](https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cv.hexlet.io/ru/resumes/13626)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/725656622197768202/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vega781)
 
