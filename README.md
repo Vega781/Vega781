@@ -25,17 +25,21 @@
 <tr>
 <td>Frontend</td> 
 <td>
-  <img src="https://skillicons.dev/icons?i=react,next,redux,astro,jest,cypress,tailwind">
+  <img src="https://skillicons.dev/icons?i=react,next,redux,astro,tailwind,mui">
 </tr>
 <tr>
 <td>Backend</td>
 <td>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs">
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,prisma,graphql,postman">
+</tr>
+<td>Testing</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=jest,cypress">
 </tr>
 <tr>
 <td>Bundlers</td>
 <td>
-  <img src="https://skillicons.dev/icons?i=vite,webpack">
+  <img src="https://skillicons.dev/icons?i=vite,webpack,gulp">
 </td>
 </tr>
 <td>Database</td>
@@ -44,9 +48,9 @@
 </td>
 </tr>
 <tr>
-<td>Tools</td>
+<td>DevOps</td>
 <td>
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,githubactions">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions">
 </td>
 </tr>
 </table>
