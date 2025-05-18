@@ -28,10 +28,10 @@
   <img src="https://skillicons.dev/icons?i=react,next,redux,astro,tailwind,mui">
 </tr>
 <tr>
-<td>Backend</td>
+<!-- <td>Backend</td>
 <td>
   <img src="https://skillicons.dev/icons?i=flask,nodejs,express,prisma,graphql,postman">
-</tr>
+</tr> -->
 <td>Testing</td>
 <td>
   <img src="https://skillicons.dev/icons?i=jest,cypress">
