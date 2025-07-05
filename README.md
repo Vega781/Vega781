@@ -1,17 +1,16 @@
 <div align="center">
 
-<!-- <div align="center">
-  <br>
-    <h3 align="center">Visitors count</h3>
-    <p align="center"><img align="center" src="https://count.getloli.com/get/@Vega781?theme=moebooru" /></p> 
-  <br>
-</div> -->
-
 ![vega781 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=vega781)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arsenic-01/Arsenic-01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arsenic-01/Arsenic-01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Arsenic-01/Arsenic-01/output/github-snake.svg" />
+</picture>
 
 # Contact me
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vega781.github.io/Portfolio/)
-[![CV](https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cv.hexlet.io/ru/resumes/13626)
+[![CV](https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://korolev.hh.ru/resume/ef39ebb2ff0d13a02c0039ed1f577968764970)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/725656622197768202/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vega781)
 
