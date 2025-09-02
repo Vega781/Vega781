@@ -2,12 +2,6 @@
 
 ![vega781 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=vega781)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arsenic-01/Arsenic-01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arsenic-01/Arsenic-01/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Arsenic-01/Arsenic-01/output/github-snake.svg" />
-</picture>
-
 # Contact me
 <!-- [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vega781.github.io/Portfolio/) -->
 [![CV](https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hh.ru/resume/76e39bb4ff0eecea910039ed1f66376e694651?hhtmFrom=resume_list)
@@ -24,7 +18,7 @@
 <tr>
 <td>Frontend</td> 
 <td>
-  <img src="https://skillicons.dev/icons?i=react,next,redux,astro,tailwind,mui">
+  <img src="https://skillicons.dev/icons?i=react,next,redux,astro,mui">
 </tr>
 <tr>
 <!-- <td>Backend</td>
@@ -53,4 +47,12 @@
 </td>
 </tr>
 </table>
-</div> 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arsenic-01/Arsenic-01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arsenic-01/Arsenic-01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Arsenic-01/Arsenic-01/output/github-snake.svg" />
+</picture>
+
+</div>
+
