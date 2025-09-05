@@ -3,8 +3,7 @@
 ![vega781 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=vega781)
 
 # Contact me
-<!-- [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vega781.github.io/Portfolio/) -->
-[![CV](https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hh.ru/resume/76e39bb4ff0eecea910039ed1f66376e694651?hhtmFrom=resume_list)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vega781.github.io/Portfolio/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/725656622197768202/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vega781)
 
