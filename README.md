@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=238&lines=github.com/Vega781" alt="Typing SVG"/>
+  
 ![vega781 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=vega781)
 
 # Contact me
